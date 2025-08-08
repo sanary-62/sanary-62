@@ -52,8 +52,15 @@ Currently focused on enhancing my React and backend development skills.
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/uzma-nisafat-sanary)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/sanary-62)
+<p align="left">
+  <a href="https://www.linkedin.com/in/uzma-nisafat-sanary" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/sanary-62" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  </a>
+</p>
+
 
 ---
 
@@ -63,7 +70,8 @@ Currently focused on enhancing my React and backend development skills.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanary-62&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanary-62&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanary-62&theme=tokyonight)
+
 
 ---
 
