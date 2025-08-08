@@ -25,21 +25,29 @@ Currently focused on enhancing my React and backend development skills.
 **Frontend**  
 <p align="left">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css"/>
 </p>
 
 
+
 **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb"/>
+</p>
+
 
 **Tools & Others**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase"/>
+</p>
+
 
 ---
 
@@ -51,11 +59,11 @@ Currently focused on enhancing my React and backend development skills.
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanary-62&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanary-62&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanary-62&theme=tokyonight)
 
 ---
 
