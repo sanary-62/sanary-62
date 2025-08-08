@@ -72,6 +72,9 @@ Currently focused on enhancing my React and backend development skills.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanary-62&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=sanary-62&theme=tokyonight)
+
+
 
 ---
 
