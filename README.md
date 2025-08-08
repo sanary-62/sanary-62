@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Banner Image -->
-<img src="[https://your-banner-url.com/banner.png](https://i.postimg.cc/85YMh83q/Beige-Minimalist-Business-Linked-In-Article-Cover-Image-20250807-225206-0000.png)" alt="banner" />
+<img src="[https://i.postimg.cc/85YMh83q/Beige-Minimalist-Business-Linked-In-Article-Cover-Image-20250807-225206-0000.png]" alt="banner" />
 
 # 👋 Hi, I'm Uzma Nisafat Sanary
 
