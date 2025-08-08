@@ -70,7 +70,8 @@ Currently focused on enhancing my React and backend development skills.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanary-62&layout=compact&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=sanary-62&theme=tokyonight" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=sanary-62&theme=tokyonight&cacheSeconds=3600)
+
 
 
 
